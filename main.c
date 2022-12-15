@@ -1,5 +1,5 @@
 /*
-	Get-PsyQ-Syms
+	Psy-Q Symbol Extractor
 	By Devon Artmeier 2022
 	
 	Grabs symbol data from a generated Psy-Q symbol file
